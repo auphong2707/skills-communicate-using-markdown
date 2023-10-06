@@ -19,3 +19,8 @@ public class Main
   }
 }
 ```
+
+- [x] Gojo Satoru
+- [x] Kashimo Hajime
+- [ ] Yuji Itadori
+- [ ] Fushiguro Megumi
